@@ -103,7 +103,7 @@ span {
 }
 
 .chameleon {
-    background-image: url(Source/50_fps.gif);
+    background-image: url(Source/50_fps2.gif);
     background-position: center bottom;
 }
 
@@ -162,7 +162,7 @@ iframe {
     width: 49.2%;
     height: 100%;
     /* background-color: blue; */
-    background-image: url(Source/50_fps.gif);
+    background-image: url(Source/50_fps2.gif);
     background-size: cover;
     background-position: center;
 }
